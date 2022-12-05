@@ -4,4 +4,4 @@ ce repo contient des scripts en Python pour apprendre l'algorithmique.
 
 ## Prérequis 
 
-il gfaut avoir python 3
+il faut avoir python 3
